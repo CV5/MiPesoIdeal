@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cbeaecf1</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3aceac</color>
+    <color name="redButton">#ff4e54</color>
+    <color name="transparent">#00000000</color>
+    <color name="blancon">#ffffff</color>
+    <color name="negro">#060000</color>
+    <color name="textColor">#13604f</color>
+    <color name="menor18">#00ddff</color>
+    <color name="gordoColor">#fb5656</color>
+    <color name="mayor40">#b60000</color>
+    <color name="selection_background">#c0eadbdb</color>
+
+</resources>
